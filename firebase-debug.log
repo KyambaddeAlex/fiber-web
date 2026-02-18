@@ -1,0 +1,32 @@
+[debug] [2026-02-18T04:52:34.765Z] ----------------------------------------------------------------------
+[debug] [2026-02-18T04:52:34.770Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Local\npm-cache\_npx\ba4f1959e38407b5\node_modules\firebase-tools\lib\bin\firebase.js init dataconnect --project demo-no-project
+[debug] [2026-02-18T04:52:34.771Z] CLI Version:   15.6.0
+[debug] [2026-02-18T04:52:34.771Z] Platform:      win32
+[debug] [2026-02-18T04:52:34.771Z] Node Version:  v24.13.1
+[debug] [2026-02-18T04:52:34.771Z] Time:          Tue Feb 17 2026 23:52:34 GMT-0500 (Easter Island Summer Time)
+[debug] [2026-02-18T04:52:34.771Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-02-18T04:52:34.775Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\user\Desktop\kyaliwajjala
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] 
+[info] Skipping Firebase project setup because a demo project is provided
+[info] 
+=== Dataconnect Setup
+[warn] !  dataconnect: Cannot detect an existing app in the current directory. 
+[debug] [2026-02-18T04:52:39.144Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2026-02-18T04:52:39.145Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
